@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="main">Главная</string>
+    <string name="films">Фильмы</string>
+    <string name="category_films">жанры</string>
+    <string name="pacific_rim">Pacific Rim</string>
+    <string name="name">Имя</string>
+    <string name="year">Год</string>
+    <string name="rating">Рейтинг</string>
+</resources>
